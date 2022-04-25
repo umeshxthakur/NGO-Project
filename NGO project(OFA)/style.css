@@ -35,6 +35,7 @@ body{
 	  font-size: 1.5rem !important;
 	  font-weight: 900 !important;
       cursor: pointer;
+      color: black;
       
   }
   .logo-O{
@@ -443,3 +444,5 @@ img {
     font-size:13px;
     margin-bottom:0;
   }
+
+  
